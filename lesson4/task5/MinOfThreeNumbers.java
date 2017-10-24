@@ -1,10 +1,12 @@
 package lesson4.task5;
+
 import java.util.Scanner;
+
 /**
  * Создать программу, которая будет выводить на экран меньшее по модулю из трёх
  * введённых пользователем вещественных чисел.
  * Для вычисления модуля используйте тернарную условную операцию.
-  */
+ */
 public class MinOfThreeNumbers {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
@@ -27,6 +29,6 @@ public class MinOfThreeNumbers {
             System.out.println("Вы ввели не число");
             System.exit(0);
         }
-    return 0;
+        return 0;
     }
 }
