@@ -1,6 +1,7 @@
 package lesson10.task1;
 
 public class Circle extends Shape {
+
     private double x;
     private double y;
     private double radius;
