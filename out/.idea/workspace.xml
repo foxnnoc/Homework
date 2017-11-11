@@ -2,8 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a124b73c-2e1a-4a56-a09c-25ee2bf52675" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/lesson4/task5/MinOfThreeNumbers.class" afterPath="$PROJECT_DIR$/out/lesson4/task5/MinOfThreeNumbers.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/lesson5_6/task1/NumberDivision.class" afterPath="$PROJECT_DIR$/out/lesson5_6/task1/NumberDivision.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task1/Circle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task1/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task1/Rectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task1/Shape.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/A.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/B.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/C.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/d/D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task4/f/F.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task5/Drum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task5/Guitar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task5/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task5/Tool.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task5/Trumpet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task6/Apple.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task6/Apricot.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task6/Fruit.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task6/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task6/Pear.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task9/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task9/Magazine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task9/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson10/task9/Printable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task1/DemoSeason$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task1/DemoSeason.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task1/Season$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task1/Season.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Clothes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/MenClothes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Pants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Shirt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Size$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Size.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Skirt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Studio.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/Tie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson11/task2/WomenClothes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task1/MinNumbString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task2/DemoLatinWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task2/Seacher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task3/SubString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task4/DemoEmpoloyee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task4/Employee.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task4/FullReport.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task4/Report.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task5/OOP.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson12/task6/DemoPalidrom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson3/task1/ChetNechet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson3/task2/Transformation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson3/task3/RangeOfVariables.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson3/task4/SumOfTwoInt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson4/task5/MinOfThreeNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson4/task6/Girlyanda.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson4/task7/Argument.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task1/NumberDivision.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task2/DemoBubble.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task2/modul/MyBubbleSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task3/Factorial.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task3/SearchFactorial.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task4/Massiv2D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task4/MyMassiv.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task5/DemoSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5_6/task5/SelectionSorter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson5lesson6/task6/MassGild.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task1/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task1/Persons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task2/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task2/Matrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task3/Book.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task3/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task3/Reception.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task3/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task4/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task4/com/company/detalis/Engine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task4/com/company/professions/Driver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson7/task4/com/company/vehicles/Car.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/flowers/Flower.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task2/Recursion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task3/DemoCar2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task3/lorry/Lorry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task3/person/Person.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task3/sportcar/SportCar.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/animals/Animal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/animals/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/cat/Cat.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/dog/Dog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/horse/Horse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson8/task4/vet/Vet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Exotic$Brand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Exotic.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Rose$Brand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Rose.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Tulpan$Brand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task1/Tulpan.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/lesson9/task2/Main.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/homework.iml" afterPath="$PROJECT_DIR$/.idea/homework.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/.idea/homework.iml" afterPath="$PROJECT_DIR$/out/.idea/homework.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,27 +113,128 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson7/task2/Main.java">
+      <file leaf-file-name="MyRegex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task1/MyRegex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinNumbString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task2/MinNumbString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoLatinWords.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task3/DemoLatinWords.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson7/task2/Matrix.java">
+      <file leaf-file-name="OOP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson12/task3/OOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="90" column="57" lean-forward="true" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#1238#1239#0" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoPolidrom.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task4/DemoPolidrom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoEmpoloyee.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson13/task6/DemoEmpoloyee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FullReport.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task6/FullReport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task6/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+              <folding>
+                <element signature="e#371#372#0" expanded="true" />
+                <element signature="e#402#403#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#587#588#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Seacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson13/task3/Seacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#262#263#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,30 +247,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson3/task4/SumOfTwoInt.java" />
-        <option value="$PROJECT_DIR$/lesson5_6/task5/SelectionSorter.java" />
-        <option value="$PROJECT_DIR$/lesson5_6/task6/MassGild.java" />
-        <option value="$PROJECT_DIR$/lesson5-6/task6/MassGild.java" />
-        <option value="$PROJECT_DIR$/lesson5lesson6/task6/MassGild.java" />
-        <option value="$PROJECT_DIR$/lesson5lesson6/task1/NumberDivision.java" />
-        <option value="$PROJECT_DIR$/lesson4/task5/MinOfThreeNumbers.java" />
-        <option value="$PROJECT_DIR$/lesson5lesson6/task2/DemoBubble.java" />
-        <option value="$PROJECT_DIR$/lesson10/task1/Circle.java" />
-        <option value="$PROJECT_DIR$/lesson10/task1/Main.java" />
-        <option value="$PROJECT_DIR$/lesson10/task1/Rectangle.java" />
-        <option value="$PROJECT_DIR$/lesson10/task1/Shape.java" />
-        <option value="$PROJECT_DIR$/lesson7/task1/Person.java" />
-        <option value="$PROJECT_DIR$/lesson7/task3/Person.java" />
-        <option value="$PROJECT_DIR$/lesson7/task1/Persons.java" />
-        <option value="$PROJECT_DIR$/lesson7/task2/Matrix.java" />
+        <option value="$PROJECT_DIR$/lesson9/task2/Main.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/d/D.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/f/F.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/A.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/B.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/C.java" />
+        <option value="$PROJECT_DIR$/lesson10/task4/Main.java" />
+        <option value="$PROJECT_DIR$/lesson10/task5/Main.java" />
+        <option value="$PROJECT_DIR$/lesson10/task6/Apple.java" />
+        <option value="$PROJECT_DIR$/lesson10/task6/Apricot.java" />
+        <option value="$PROJECT_DIR$/lesson10/task6/Fruit.java" />
+        <option value="$PROJECT_DIR$/lesson10/task6/Main.java" />
+        <option value="$PROJECT_DIR$/lesson10/task6/Pear.java" />
+        <option value="$PROJECT_DIR$/lesson10/task9/Book.java" />
+        <option value="$PROJECT_DIR$/lesson10/task9/Magazine.java" />
+        <option value="$PROJECT_DIR$/lesson10/task9/Printable.java" />
+        <option value="$PROJECT_DIR$/lesson10/task9/Main.java" />
+        <option value="$PROJECT_DIR$/lesson11/task1/DemoSeason.java" />
+        <option value="$PROJECT_DIR$/lesson11/task1/Season.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Clothes.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Main.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/MenClothes.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Pants.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Shirt.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Size.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Skirt.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Studio.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/Tie.java" />
+        <option value="$PROJECT_DIR$/lesson11/task2/WomenClothes.java" />
+        <option value="$PROJECT_DIR$/lesson12/task1/MinNumbString.java" />
+        <option value="$PROJECT_DIR$/lesson12/task2/DemoLatinWords.java" />
+        <option value="$PROJECT_DIR$/lesson12/task2/Seacher.java" />
+        <option value="$PROJECT_DIR$/lesson12/task3/SubString.java" />
+        <option value="$PROJECT_DIR$/lesson12/task4/DemoEmpoloyee.java" />
+        <option value="$PROJECT_DIR$/lesson12/task4/Employee.java" />
+        <option value="$PROJECT_DIR$/lesson12/task4/FullReport.java" />
+        <option value="$PROJECT_DIR$/lesson12/task4/Report.java" />
+        <option value="$PROJECT_DIR$/lesson12/task5/OOP.java" />
+        <option value="$PROJECT_DIR$/lesson12/task6/DemoPalidrom.java" />
+        <option value="$PROJECT_DIR$/lesson12/task1/StrJava.java" />
+        <option value="$PROJECT_DIR$/lesson12/task2/MyAppend.java" />
+        <option value="$PROJECT_DIR$/lesson13/task1/MyRegex.java" />
+        <option value="$PROJECT_DIR$/lesson13/task2/MinNumbString.java" />
+        <option value="$PROJECT_DIR$/lesson13/task3/Seacher.java" />
+        <option value="$PROJECT_DIR$/lesson13/task3/DemoLatinWords.java" />
+        <option value="$PROJECT_DIR$/lesson12/task3/OOP.java" />
+        <option value="$PROJECT_DIR$/lesson13/task4/DemoPolidrom.java" />
+        <option value="$PROJECT_DIR$/lesson13/task6/FullReport.java" />
+        <option value="$PROJECT_DIR$/lesson13/task6/Employee.java" />
+        <option value="$PROJECT_DIR$/lesson13/task6/Report.java" />
+        <option value="$PROJECT_DIR$/lesson13/task6/DemoEmpoloyee.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
-    <option name="y" value="22" />
-    <option name="width" value="1260" />
-    <option name="height" value="944" />
+    <option name="x" value="-8" />
+    <option name="width" value="1300" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,7 +322,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,30 +335,70 @@
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson7" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson12" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson12" type="462c0819:PsiDirectoryNode" />
               <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson10" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson12" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+              <item name="task1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+              <item name="task4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="homework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson13" type="462c0819:PsiDirectoryNode" />
+              <item name="task6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Roman" />
+    <property name="last_opened_file_path" value="C:/Roman/homework" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -140,15 +416,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="ChetNechet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DemoEmpoloyee">
+    <configuration name="DemoEmpoloyee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson3.task1.*" />
+          <option name="PATTERN" value="lesson13.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson3.task1.ChetNechet" />
+      <option name="MAIN_CLASS_NAME" value="lesson13.task6.DemoEmpoloyee" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -160,14 +436,14 @@
       <module name="homework" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoLatinWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson7.task2.*" />
+          <option name="PATTERN" value="lesson13.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson7.task2.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson13.task3.DemoLatinWords" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -179,14 +455,14 @@
       <module name="homework" />
       <envs />
     </configuration>
-    <configuration name="MassGild (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="DemoPolidrom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5lesson6.task6.*" />
+          <option name="PATTERN" value="lesson13.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5lesson6.task6.MassGild" />
+      <option name="MAIN_CLASS_NAME" value="lesson13.task4.DemoPolidrom" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -198,14 +474,14 @@
       <module name="homework" />
       <envs />
     </configuration>
-    <configuration name="NumberDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MinNumbString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson5_6.task1.*" />
+          <option name="PATTERN" value="lesson13.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson5_6.task1.NumberDivision" />
+      <option name="MAIN_CLASS_NAME" value="lesson13.task2.MinNumbString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -217,14 +493,14 @@
       <module name="homework" />
       <envs />
     </configuration>
-    <configuration name="Persons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lesson7.task1.*" />
+          <option name="PATTERN" value="lesson12.task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lesson7.task1.Persons" />
+      <option name="MAIN_CLASS_NAME" value="lesson12.task3.OOP" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -318,19 +594,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ChetNechet" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MassGild (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.NumberDivision" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Persons" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MinNumbString" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoLatinWords" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OOP" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DemoPolidrom" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DemoEmpoloyee" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Persons" />
-        <item index="2" class="java.lang.String" itemvalue="Application.NumberDivision" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MassGild (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ChetNechet" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DemoEmpoloyee" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoPolidrom" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OOP" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DemoLatinWords" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MinNumbString" />
       </list>
     </recent_temporary>
   </component>
@@ -359,26 +635,33 @@
       <option name="project" value="LOCAL" />
       <updated>1508859252649</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Домашнее задание">
+      <created>1508865925912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508865925912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.50647247" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938388" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.4935275" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26213592" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27427185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -389,7 +672,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -432,221 +714,331 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task1/NumberDivision.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task5/Trumpet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task5/Tool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task5/Guitar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task5/Drum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task6/Pear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/task6/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task1/Person.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task6/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task3/Person.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task6/Apricot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding />
+        <state relative-caret-position="425">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task1/Persons.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task6/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task6/MassGild.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task1/NumberDivision.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task2/modul/MyBubbleSort.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task2/DemoBubble.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task3/Factorial.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task4/Massiv2D.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task3/SearchFactorial.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task4/MyMassiv.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task5/DemoSorter.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task5/SelectionSorter.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task6/MassGild.java" />
-    <entry file="file://$PROJECT_DIR$/lesson3/task2/Transformation.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task9/Printable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task3/RangeOfVariables.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task1/Season.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/SumOfTwoInt.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task1/DemoSeason.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task6/Girlyanda.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task9/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="119">
+          <caret line="7" column="41" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task7/Argument.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task9/Magazine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task1/NumberDivision.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task2/modul/MyBubbleSort.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task2/DemoBubble.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task3/Factorial.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task3/SearchFactorial.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task4/Massiv2D.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task4/MyMassiv.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task5/DemoSorter.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task5/SelectionSorter.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task6/MassGild.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5-6/task6/MassGild.java" />
-    <entry file="file://$PROJECT_DIR$/lesson3/task1/ChetNechet.java">
+    <entry file="file://$PROJECT_DIR$/lesson10/task9/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="41" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task6/MassGild.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task1/NumberDivision.java" />
-    <entry file="file://$PROJECT_DIR$/lesson5lesson6/task2/DemoBubble.java" />
-    <entry file="file://$PROJECT_DIR$/lesson4/task5/MinOfThreeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5_6/task1/NumberDivision.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Clothes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="680">
+          <caret line="52" column="18" lean-forward="true" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/MenClothes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task1/Persons.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Pants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task1/Person.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Shirt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Shape.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Size.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/task1/Circle.java">
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Skirt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Studio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/Tie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson11/task2/WomenClothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task2/Seacher.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task4/Report.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task4/FullReport.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task4/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task6/DemoPalidrom.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task5/OOP.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task4/DemoEmpoloyee.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task3/SubString.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task2/DemoLatinWords.java" />
+    <entry file="file://$PROJECT_DIR$/lesson12/task1/MinNumbString.java" />
+    <entry file="file://$PROJECT_DIR$/lesson10/task1/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task1/sdf.java" />
+    <entry file="file://$PROJECT_DIR$/lesson10/task2/Tabl_Class.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task1/StrJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#92#93#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12/task2/MyAppend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task3/Person.java">
+    <entry file="file://$PROJECT_DIR$/lesson13/task1/MyRegex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task2/MinNumbString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task3/Seacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task3/DemoLatinWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task2/Matrix.java">
+    <entry file="file://$PROJECT_DIR$/lesson12/task3/OOP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="90" column="57" lean-forward="true" selection-start-line="90" selection-start-column="57" selection-end-line="90" selection-end-column="57" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#1238#1239#0" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task4/DemoPolidrom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task2/Main.java">
+    <entry file="file://$PROJECT_DIR$/lesson13/task6/FullReport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task6/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task6/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson13/task6/DemoEmpoloyee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -707,6 +1099,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
