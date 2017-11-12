@@ -9,13 +9,13 @@ public class ArrayDequeDemo {
     public static void main(String[] args) {
         Deque<MyHeavyBox> qBox = new ArrayDeque<>();
 
-        qBox.add(new MyHeavyBox());
-        qBox.add(new MyHeavyBox());
-        qBox.add(new MyHeavyBox());
-        qBox.add(new MyHeavyBox());
+        qBox.offer(new MyHeavyBox());
+        qBox.offer(new MyHeavyBox());
+        qBox.offer(new MyHeavyBox());
+        qBox.offer(new MyHeavyBox());
 
         while (!qBox.isEmpty()) {
-            System.out.println(qBox.remove() + " ");
+            System.out.println(qBox.poll() + " ");
         }
     }
 }
